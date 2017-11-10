@@ -1,0 +1,162 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\altera\13.0sp1
+vAGU
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+!i10b 1
+Z2 !s100 hMcPbOJVEG>i_zQiKcTkW2
+Z3 IcNkbBI0?=R]Q3:[9Xa=U]3
+Z4 Ve9I0DWY@Ji<hegzN67<e;1
+Z5 !s105 ukucorn_sv_unit
+S1
+Z6 d\\HMC.Edu\HMCDFS\HMC_2017\swang\My Documents\GitHub\ukucorn\SystemVerilog
+Z7 w1510279606
+Z8 8//HMC.Edu/HMCDFS/HMC_2017/swang/My Documents/GitHub/ukucorn/SystemVerilog/ukucorn.sv
+Z9 F//HMC.Edu/HMCDFS/HMC_2017/swang/My Documents/GitHub/ukucorn/SystemVerilog/ukucorn.sv
+L0 30
+Z10 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z11 !s108 1510279610.996000
+Z12 !s107 //HMC.Edu/HMCDFS/HMC_2017/swang/My Documents/GitHub/ukucorn/SystemVerilog/ukucorn.sv|
+Z13 !s90 -reportprogress|300|-work|work|-sv|//HMC.Edu/HMCDFS/HMC_2017/swang/My Documents/GitHub/ukucorn/SystemVerilog/ukucorn.sv|
+!s101 -O0
+Z14 o-work work -sv -O0
+Z15 n@a@g@u
+vBFU
+R1
+!i10b 1
+Z16 !s100 VJ:Vh64RB>]1`zYP4^3z@1
+Z17 IAj8UK6eCXXL?^BII<6mW70
+Z18 V3FH=QF:8e<C?dRR4<[O1P0
+R5
+S1
+R6
+R7
+R8
+R9
+Z19 L0 114
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!s101 -O0
+R14
+Z20 n@b@f@u
+vcounter
+R1
+!i10b 1
+Z21 !s100 za?l]5XaBQNLFNCMjJain0
+Z22 IH[1QjnH1TO>HAF[f8f?121
+Z23 Vd`cH8cGIMCDDHjAU2F`ff0
+R5
+S1
+R6
+R7
+R8
+R9
+L0 11
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!s101 -O0
+R14
+vcounter_en
+R1
+!i10b 1
+Z24 !s100 W>[SN4f?FS1b@CA8e19@;3
+Z25 IGfTUX9o7:9@I[ziAk=SJ<1
+Z26 V<?FXBP@m=P<?RhTmg030Q2
+R5
+S1
+R6
+R7
+R8
+R9
+L0 2
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!s101 -O0
+R14
+vtestbench
+R1
+Z27 !s100 bWohiJiF^0T?BDN=]m>m40
+Z28 I=XfVmG><jZcHDHM7dU36O2
+Z29 VI^5RDFG7;lEgBY32KYBV63
+Z30 !s105 testbench_sv_unit
+S1
+R6
+Z31 w1510274179
+Z32 8//HMC.Edu/HMCDFS/HMC_2017/swang/My Documents/GitHub/ukucorn/SystemVerilog/testbench.sv
+Z33 F//HMC.Edu/HMCDFS/HMC_2017/swang/My Documents/GitHub/ukucorn/SystemVerilog/testbench.sv
+L0 1
+R10
+r1
+31
+Z34 !s90 -reportprogress|300|-work|work|-sv|//HMC.Edu/HMCDFS/HMC_2017/swang/My Documents/GitHub/ukucorn/SystemVerilog/testbench.sv|
+R14
+!i10b 1
+!s85 0
+Z35 !s108 1510279609.497000
+Z36 !s107 //HMC.Edu/HMCDFS/HMC_2017/swang/My Documents/GitHub/ukucorn/SystemVerilog/testbench.sv|
+!s101 -O0
+vTwoPortRAM
+R1
+!i10b 1
+Z37 !s100 R4gmXjYV_XLTDei;hka<C1
+Z38 IClbiUlde6aRoY95U=1QQ:1
+Z39 VzPPnMVTcR_9_=[lhB^3dF2
+R5
+S1
+R6
+R7
+R8
+R9
+L0 89
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!s101 -O0
+R14
+Z40 n@two@port@r@a@m
+vukucorn
+R1
+!i10b 1
+!s100 `DUFjJS;k]n3ZnhQ6WT?=3
+Ie3DXTVz0G6OMG4KbdUQo83
+Z41 VOFB`PjbEcV3_ZX8cXF0J[1
+R5
+S1
+R6
+R7
+R8
+R9
+Z42 L0 142
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!s101 -O0
+R14

@@ -263,10 +263,10 @@ module ukucorn
 	
 	logic signed [15:0] Aout_r, Aout_i, Bout_r, Bout_i;
 	
-	assign Aout_r = Aout[31:16];
-  assign Aout_i = Aout[15:0];
-	assign Bout_r = Bout[31:16];
-  assign Bout_i = Bout[15:0];
+	assign A_r = Aout[31:16];
+  assign A_i = Aout[15:0];
+	assign B_r = Bout[31:16];
+  assign B_i = Bout[15:0];
 
 	// Twiddle Factor ROM
  	// Contains the look-up table of real and imaginary values
